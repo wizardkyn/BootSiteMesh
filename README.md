@@ -13,11 +13,12 @@ Use two Decorator <br>
 Front-end : http://localhost:8080/BootSiteMesh/web/usermenu.do <br>
 Back-end : http://localhost:8080/BootSiteMesh/backend/admin.do <br>
 No decoration start with /login, /popup, /main URL <br>
-ex : http://localhost:8080/BootSiteMesh/main/index.do <br><br>
-Extracting multiple DIV tags and put into decorator  <br>
+ex : http://localhost:8080/BootSiteMesh/main/index.do <br>
+
+Extracting multiple DIV tags and put into decorator
 
 Decorator
-<br>
+
 &lt;h1>&lt;sitemesh:write property='div.contentH1'/>&lt;/h1>
 <br>
 &lt;h2>&lt;sitemesh:write property='div.contentH2'/>&lt;/h2>
