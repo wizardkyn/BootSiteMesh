@@ -125,7 +125,7 @@
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
       
-      <Context docBase="BootWebJsp" path="/BootWebJsp" reloadable="true" source="org.eclipse.jst.jee.server:BootWebJsp"/></Host>
+      <Context docBase="BootSiteMesh" path="/BootSiteMesh" reloadable="true" source="org.eclipse.jst.jee.server:BootSiteMesh"/></Host>
     </Engine>
   </Service>
 </Server>
