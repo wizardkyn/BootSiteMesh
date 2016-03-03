@@ -13,8 +13,10 @@ Extracting multiple DIV tags and put into decorator
 
 Decorator
 &lt;h1>&lt;sitemesh:write property='div.contentH1'/>&lt;/h1>
+<br>
 &lt;h2>&lt;sitemesh:write property='div.contentH2'/>&lt;/h2>
 
 From contents
-&lt;div id="contentH1">User Area Heading 1</div>
-&lt;div id="contentH2">User Area Heading 2</div>
+&lt;div id="contentH1">User Area Heading 1&lt;/div>
+<br>
+&lt;div id="contentH2">User Area Heading 2&lt;/div>
