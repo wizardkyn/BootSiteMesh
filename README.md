@@ -9,9 +9,12 @@ JSTL & SiteMesh3<br>
 Logback<br>
 External Tomcat 8<br>
 # How to
-Use two Decorator(Front-end and Back-end) <br>
+Use two Decorator <br>
+Front-end : http://localhost:8080/BootSiteMesh/web/usermenu.do <br>
+Back-end : http://localhost:8080/BootSiteMesh/backend/admin.do <br>
 No decoration start with /login, /popup, /main URL <br>
-Extracting multiple DIV tags and put into decorator  
+ex : http://localhost:8080/BootSiteMesh/main/index.do <br><br>
+Extracting multiple DIV tags and put into decorator  <br>
 
 Decorator
 <br>
