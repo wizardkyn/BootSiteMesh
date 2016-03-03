@@ -12,9 +12,9 @@ External Tomcat 8<br>
 Extracting multiple DIV tags and put into decorator  
 
 Decorator
-<h1><sitemesh:write property='div.contentH1'/></h1>
-<h2><sitemesh:write property='div.contentH2'/></h2>
+&lt;h1>&lt;sitemesh:write property='div.contentH1'/>&lt;/h1>
+&lt;h2>&lt;sitemesh:write property='div.contentH2'/>&lt;/h2>
 
 From contents
-<div id="contentH1">User Area Heading 1</div>
-<div id="contentH2">User Area Heading 2</div>
+&lt;div id="contentH1">User Area Heading 1</div>
+&lt;div id="contentH2">User Area Heading 2</div>
