@@ -9,6 +9,8 @@ JSTL & SiteMesh3<br>
 Logback<br>
 External Tomcat 8<br>
 # How to
+Use two Decorator(Front-end and Back-end) <br>
+No decoration start with /login, /popup, /main URL <br>
 Extracting multiple DIV tags and put into decorator  
 
 Decorator
