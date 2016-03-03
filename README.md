@@ -11,7 +11,6 @@ External Tomcat 8<br>
 # How to
 Extracting multiple DIV tags and put into decorator  
 
-Ex:
 Decorator
 <h1><sitemesh:write property='div.contentH1'/></h1>
 <h2><sitemesh:write property='div.contentH2'/></h2>
